@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sivadasrajan
 - 👀 I’m interested in anything technical
-- 🌱 I’m currently learning anything possible right now
+- 🌱 I’m currently learning kubernetes, rabbitmq, and microservices archetecture
 - 💞️ I’m looking to collaborate good people
-- 📫 How to reach me sivadasrajan@gmail.com
+- 📫 You ca reach me by mailing sivadasrajan@gmail.com
 
 <!---
 sivadasrajan/sivadasrajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
